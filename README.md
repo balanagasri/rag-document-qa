@@ -1,4 +1,4 @@
-# RAG-Based Document Question Answering System 🤖📄
+# RAG-Based Document Question Answering System 
 
 This project implements a **Retrieval-Augmented Generation (RAG) chatbot** that allows users to upload PDF documents, ask questions based on the content, and receive accurate, document-specific answers. It combines the power of **Cohere** for language processing and embeddings, **Pinecone** for efficient vector storage and retrieval, and **Streamlit** for a user-friendly interface.
 
@@ -85,14 +85,14 @@ Integrate additional vector databases for broader compatibility.
 ## Contributing 
 
 
-🚀 We warmly welcome contributions to enhance this project! Whether it's fixing bugs, adding new features, or improving documentation, your efforts will help make this project better for everyone. Let's collaborate and build something amazing together! 🌟✨
+ We warmly welcome contributions to enhance this project! Whether it's fixing bugs, adding new features, or improving documentation, your efforts will help make this project better for everyone. Let's collaborate and build something amazing together! 
 
 ### License  
 
 This project is licensed under the Apache License. See the `LICENSE` file for more details.
 
-### Acknowledgments 🙏
+### Acknowledgments 
 
-- **Cohere AI** for their powerful embedding and language models. 🧠✨
-- **Pinecone** for scalable vector search infrastructure. 🔍⚡
-- **Streamlit** for making it easy to build interactive data apps. 📊🎉
+- **Cohere AI** for their powerful embedding and language models. 
+- **Pinecone** for scalable vector search infrastructure. 
+- **Streamlit** for making it easy to build interactive data apps. 
