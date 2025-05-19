@@ -20,7 +20,7 @@ Follow the steps below to run and interact with the project:
 ### 1. Clone the Repository
 Clone the repository to your local system using the following command:
 ```bash
-git clone [https://github.com/VivekChauhan05/RAG_Document_Question_Answering.git](https://github.com/balanagasri/rag-document-qa.git)
+git clone https://github.com/balanagasri/rag-document-qa.git
 cd RAG_Document_Question_Answering
 ```
 
