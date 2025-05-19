@@ -24,7 +24,7 @@ git clone [https://github.com/VivekChauhan05/RAG_Document_Question_Answering.git
 cd RAG_Document_Question_Answering
 ```
 
-### 2. Create and Activate a Virtual Environment 🏗
+### 2. Create and Activate a Virtual Environment 
 Create a virtual environment and activate it to isolate project dependencies:
 
 ```bash
